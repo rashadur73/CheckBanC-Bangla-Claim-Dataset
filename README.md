@@ -1,4 +1,4 @@
-# Toward automated Fact-Checking: Leveraging DistilBERT based hybrid feature fusion Neural network for automatic check-worthy claim detection
+# Toward automated Fact-Checking: Leveraging DistilBERT based hybrid feature fusion technique for automatic check-worthy claim detection in a low-resource language
 
 <b>Authors:</b>
 Md. Rashadur Rahman and Mohammad Shamsul Arefin
